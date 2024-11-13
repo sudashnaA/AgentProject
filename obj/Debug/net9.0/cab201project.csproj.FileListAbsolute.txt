@@ -1,0 +1,14 @@
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\bin\Debug\net9.0\cab201project.exe
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\bin\Debug\net9.0\cab201project.deps.json
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\bin\Debug\net9.0\cab201project.runtimeconfig.json
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\bin\Debug\net9.0\cab201project.dll
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\bin\Debug\net9.0\cab201project.pdb
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.AssemblyInfoInputs.cache
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.AssemblyInfo.cs
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.csproj.CoreCompileInputs.cache
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.dll
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\refint\cab201project.dll
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.pdb
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\cab201project.genruntimeconfig.cache
+C:\Users\amara\OneDrive\Documents\c# projects\cab201project\obj\Debug\net9.0\ref\cab201project.dll
